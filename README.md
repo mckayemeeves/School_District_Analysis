@@ -1,5 +1,6 @@
 # School_District_Analysis
 ## Purpose of Analysis
+It came to our attention that the original data was tainted with academic dishonesty so in this code, I replaced all the 9th grade math and reading scores so that state-testing standards would still be upheld.
 ## Results
 ### District Summary Affect:
 ### School Summary Affect:
